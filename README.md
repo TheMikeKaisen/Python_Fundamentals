@@ -1,7 +1,6 @@
 # Python Fundamentals
 
-A beginner-friendly **hands-on introduction to Python programming**, containing interactive Jupyter notebooks that build foundational skills from the basics to object-oriented concepts and file handling.[GitHub](https://github.com/TheMikeKaisen/Python_Fundamentals/tree/main)
-
+A beginner-friendly **hands-on introduction to Python programming**, containing interactive Jupyter notebooks that build foundational skills from the basics to object-oriented concepts and file handling.
 ## 🚀 Overview
 
 This repository is designed to help learners get comfortable with Python through:
@@ -11,8 +10,7 @@ This repository is designed to help learners get comfortable with Python through
 - Practical examples you can run and modify
 - A gradual progression from basic syntax to object-oriented programming and exceptions
 
-Whether you’re new to programming or transitioning from another language, this is a great way to **learn Python fundamentals by doing**.[GitHub](https://github.com/TheMikeKaisen/Python_Fundamentals/tree/main)
-
+Whether you’re new to programming or transitioning from another language, this is a great way to **learn Python fundamentals by doing**.
 ---
 
 ## 📚 Topics Covered
@@ -30,10 +28,9 @@ The notebooks introduce and explain:
 9. **Inheritance & polymorphism**
 10. **File handling (read/write)**
 11. **Exception handling**
-12. **Namespaces & decorators**[GitHub](https://github.com/TheMikeKaisen/Python_Fundamentals/tree/main)
+12. **Namespaces & decorators**
 
-Each topic lives in its own `.ipynb` notebook so you can follow along interactively.[GitHub](https://github.com/TheMikeKaisen/Python_Fundamentals/tree/main)
-
+Each topic lives in its own `.ipynb` notebook so you can follow along interactively.
 ---
 
 ## 🧠 Why This Repo?
